@@ -1,0 +1,53 @@
+body {
+margin: auto;
+}
+
+fieldset{
+width: 400px;
+}
+form{
+margin: 50px;
+width: 400px;
+
+}
+div#jumboo{
+margin-bottom: 0px;
+color:rgb(25, 95, 112);
+background-color:black;
+}
+div#cible1{
+background-image: url("../image/back.jpg");
+background-size: 2560px 1600px;
+background-repeat: no-repeat;
+}
+div#cible2{
+background-image: url("../image/bloc2acc.png");
+background-repeat: repeat;
+}
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: auto;
+}
+div#montant{
+display: inline;
+}
+
+div#cibleCompte{
+background-color:#0c2461;
+}
+div#cibleComptecli{
+background-color : #0c2461;
+}
+.cible3{
+background-color : #0c2461;
+}
+div#devaff{
+background-color: rgb(12, 22, 22);
+margin : 0px;
+}
+div#editcont{
+    background-image : url("../image/editcont.png");
+    margin:auto;
+}
